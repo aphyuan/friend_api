@@ -1,0 +1,9 @@
+{
+  "name": "MongooseDash",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.2.0",
+    "mongoose": "^4.5.5"
+  }
+}
